@@ -7,6 +7,9 @@ export const eventTypes = [
     description: 'Complete wedding planning services',
     categories: ['Venue', 'Catering', 'Photography', 'Decoration', 'Music']
   },
+
+
+  
   {
     id: 'birthday',
     name: 'Birthday Party',
